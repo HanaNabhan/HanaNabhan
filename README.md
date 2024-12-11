@@ -2,7 +2,7 @@
 
 preview
 <h1 align="center">Hi 👋, I'm Hana Nabhan</h1>
-<h3 align="center">A passionate AI , Embedded Systems and Robotics</h3>
+<h3 align="center">A passionate AI , Embedded Systems and Robotics Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hananabhan&label=Profile%20views&color=0e75b6&style=flat" alt="hananabhan" /> </p>
 
