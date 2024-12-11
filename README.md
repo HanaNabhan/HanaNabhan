@@ -14,10 +14,13 @@ preview
 <p align="left">
 <a href="https://linkedin.com/in/hana nabhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hana nabhan" height="30" width="40" /></a>
 </p>
-## 🔍 **What I Do:**
-- 💻 **AI & Deep Learning**: Developing intelligent models with **TensorFlow**, **Keras**, **PyTorch** and more for real-world applications.  
-- 🤖 **Robotics**: Creating autonomous systems with **ROS**, improving navigation and Localization.  
-- 🔧 **Embedded Systems**: Designing efficient embedded systems for **IoT** and **electric vehicles**.
+<h2>🔍 <strong>What I Do:</strong></h2>
+<ul>
+  <li>💻 <strong>AI & Deep Learning</strong>: Developing intelligent models with <strong>TensorFlow</strong>, <strong>Keras</strong>, <strong>PyTorch</strong>, and more for real-world applications.</li>
+  <li>🤖 <strong>Robotics</strong>: Creating autonomous systems with <strong>ROS</strong>, improving navigation and localization.</li>
+  <li>🔧 <strong>Embedded Systems</strong>: Designing efficient embedded systems for <strong>IoT</strong> and <strong>electric vehicles</strong>.</li>
+</ul>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
