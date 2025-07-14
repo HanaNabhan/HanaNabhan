@@ -6,7 +6,7 @@ preview
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hananabhan&label=Profile%20views&color=0e75b6&style=flat" alt="hananabhan" /> </p>
 
-- 🌱 I’m currently learning **AI , Embedded Systems and Robotics**
+- 🌱 I’m currently learning **AI and Embedded Systems**
 
 - 📫 How to reach me **hanna.nabhann@gmail.com**
 
