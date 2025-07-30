@@ -1,30 +1,97 @@
+# Hi there, I'm Hana Nabhan! 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+in+Training;Robotics+Enthusiast;Problem+Solver;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing Animation">
+</div>
 
-preview
-<h1 align="center">Hi 👋, I'm Hana Nabhan</h1>
-<h3 align="center">A passionate AI , Embedded Systems and Robotics Engineer</h3>
+<h3 align="center">🤖 Aspiring AI Computer Engineer | 🎓 Undergraduate Student | 🚀 Innovation Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hananabhan&label=Profile%20views&color=0e75b6&style=flat" alt="hananabhan" /> </p>
-
-- 🌱 I’m currently learning **AI and Embedded Systems**
-
-- 📫 How to reach me **hanna.nabhann@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hana nabhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hana nabhan" height="30" width="40" /></a>
+<p align="center">
+  <em>Passionate about developing intelligent solutions for real-world challenges through AI, computer vision, and embedded systems.</em>
 </p>
-<h2>🔍 <strong>What I Do:</strong></h2>
-<ul>
-  <li>💻 <strong>AI & Deep Learning</strong>: Developing intelligent models with <strong>TensorFlow</strong>, <strong>Keras</strong>, <strong>PyTorch</strong>, and more for real-world applications.</li>
-  <li>🤖 <strong>Robotics</strong>: Creating autonomous systems with <strong>ROS</strong>, improving navigation and localization.</li>
-  <li>🔧 <strong>Embedded Systems</strong>: Designing efficient embedded systems for <strong>IoT</strong> and <strong>electric vehicles</strong>.</li>
-</ul>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=hananabhan&label=Profile%20views&color=0e75b6&style=flat" alt="hananabhan" /> 
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
+- 🎓 **Computer & Communication Engineering** student at Benha University (GPA: Excellent)
+- 🔬 **AI Research Intern** at CIS – Nile University
+- 🤖 **Computer Vision Intern** at NTI Summer Training
+- 🏆 **3x Competition Winner** in autonomous driving and robotics
+- 🌱 Currently diving deep into **Deep Learning**, **Computer Vision**, and **Embedded AI**
+- 💡 Always excited to collaborate on **AI projects** and **research opportunities**
 
+## 🏆 Recent Achievements
 
+🥉 **3rd Place** - F1TENTH CDC 2024 Simulation League (Top 15/51 globally)  
+🥉 **3rd Place** - F1TENTH IROS 2024 Simulation League (4th/57 in finals)  
+🥉 **3rd Place Overall** - EVER Egypt E-Rally   
+🏅 **Top 50** - MTC AIC3 Competition (200+ teams)
+
+## 💻 Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Embedded Systems & Robotics
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanaNabhan&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🎯 Current Focus
+
+- 🔬 **Research:** Applied AI research for publication (Track 18 & 21)
+- 🤖 **Learning:** Advanced computer vision techniques and GANs
+- 🚀 **Building:** Embedded AI systems and autonomous solutions
+- 📚 **Exploring:** MLOps tools and deployment strategies
+
+## 🌐 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hana-Nabhan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaNabhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanna.nabhann@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hananabhan.github.io/portfolio)
+
+</div>
+
+---
+
+⭐️ **Fun Fact:** I love combining creativity with technology to solve complex problems! When I'm not coding, you'll find me exploring the latest AI research papers.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Robot Wave" width="100">
+  <br>
+  <em>"Thanks for visiting my profile! Keep coding and stay awesome! 🚀"</em>
+</div>
