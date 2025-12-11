@@ -65,7 +65,7 @@
 
 ## 🎯 Current Focus
 
-- 🔬 **Research:** Applied AI research for publication (Track 18 & 21)
+- 🔬 **Research:** Applied AI research for publication 
 - 🤖 **Learning:** Advanced computer vision techniques and GANs
 - 🚀 **Building:** Embedded AI systems and autonomous solutions
 - 📚 **Exploring:** MLOps tools and deployment strategies
