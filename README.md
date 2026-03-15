@@ -19,8 +19,6 @@
 ## 🚀 About Me
 
 - 🎓 **Computer & Communication Engineering** student at Benha University (GPA: Excellent)
-- 🔬 **AI Research Intern** at CIS – Nile University
-- 🤖 **Computer Vision Intern** at NTI Summer Training
 - 🌱 Currently diving deep into **Deep Learning**, **Computer Vision**, and **Embedded AI**
 - 💡 Always excited to collaborate on **AI projects** and **research opportunities**
 
