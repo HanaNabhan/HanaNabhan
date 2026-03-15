@@ -24,13 +24,6 @@
 - 🌱 Currently diving deep into **Deep Learning**, **Computer Vision**, and **Embedded AI**
 - 💡 Always excited to collaborate on **AI projects** and **research opportunities**
 
-## 🏆 Recent Achievements
-
-🥉 **3rd Place** - F1TENTH CDC 2024 Simulation League (Top 15/51 globally)  
-🥉 **3rd Place** - F1TENTH IROS 2024 Simulation League (4th/57 in finals)  
-🥉 **3rd Place Overall** - EVER Egypt E-Rally   
-🏅 **Top 50** - MTC AIC3 Competition (200+ teams)
-
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
